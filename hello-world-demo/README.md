@@ -36,7 +36,7 @@
 
 结果 ：  Hello Root !
 
--   ### 选中 package com.xupt.demo 下的 HelloWorld + Shift + F10
+-  ### 选中 package com.xupt.demo 下的 HelloWorld + Shift + F10
 
   结果 ： Hello World !
 
