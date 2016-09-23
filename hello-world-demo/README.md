@@ -1,10 +1,6 @@
 #hello-world-demo
 
----
 
-<return>
-
-<return>
 
 ##运行
 
