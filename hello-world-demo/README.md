@@ -12,11 +12,11 @@
 
 -  运行Root文件下的文件/上一次运行过的文件
 
-    ### Shift + F10
+     ### Shift + F10
 
 -  运行指定文件
 
-   ###选中要执行的文件 + Shift + F10
+     ###选中要执行的文件 + Shift + F10
 
 
 
@@ -32,12 +32,12 @@
 
 -
 
-- ### 首次运行 ： Shitf + F10
+-  # 首次运行 ： Shitf + F10
 
-结果 ：  Hello Root !
+   结果 ：  Hello Root !
 
--  ### 选中 package com.xupt.demo 下的 HelloWorld + Shift + F10
+-  # 选中 package com.xupt.demo 下的 HelloWorld + Shift + F10
 
-  结果 ： Hello World !
+   结果 ： Hello World !
 
 
